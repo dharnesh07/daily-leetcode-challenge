@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0035-search-insert-position/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
