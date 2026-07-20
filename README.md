@@ -17,12 +17,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,8 +36,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0113-path-sum-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
