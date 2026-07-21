@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1925-count-square-sum-triples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -89,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1925-count-square-sum-triples/) | Easy |
 <!---LeetCode Topics End-->
