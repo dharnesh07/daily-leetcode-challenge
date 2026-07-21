@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0035-search-insert-position/) | Easy |
+| [0169-majority-element](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -72,4 +73,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
