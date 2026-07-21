@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -94,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1925-count-square-sum-triples/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
