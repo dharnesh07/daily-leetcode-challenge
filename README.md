@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1925-count-square-sum-triples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -109,4 +110,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 <!---LeetCode Topics End-->
