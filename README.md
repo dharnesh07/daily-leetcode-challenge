@@ -101,4 +101,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
