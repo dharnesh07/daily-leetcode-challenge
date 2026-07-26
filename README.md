@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
