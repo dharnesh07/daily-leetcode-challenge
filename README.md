@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0231-power-of-two/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1323-maximum-69-number](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1323-maximum-69-number/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1925-count-square-sum-triples/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1323-maximum-69-number](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/1323-maximum-69-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
