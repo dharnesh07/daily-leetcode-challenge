@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0190-reverse-bits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0231-power-of-two/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dharnesh07/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Greedy
